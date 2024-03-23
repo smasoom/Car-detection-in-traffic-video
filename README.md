@@ -28,3 +28,6 @@ to each frame. Pre-allocate memory to store the processed video efficiently.</p>
 <p><strong>Step 5: Visualize Results</strong>
 Retrieve the frame rate of the original video and use it to visualize the tagged cars in
 implay. The tagged cars are highlighted in red within each frame. </p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The algorithm successfully detects and tags light-coloured cars in the traffic video. Adjustments to parameters such as threshold values may be necessary for optimal performance on different videos.
+  Further testing and refinement can enhance the algorithm&#39;s accuracy and robustness. </p>
